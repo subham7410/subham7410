@@ -17,4 +17,4 @@
 ---
 
 ## 🧩 Tech Stack
-**Languages**
+**UMM I forgot**
